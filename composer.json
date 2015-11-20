@@ -1,4 +1,5 @@
 {
+  "name": "synaq/http-client",
   "autoload": {
     "psr-4": {
       "Synaq\\": "src"
