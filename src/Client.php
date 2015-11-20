@@ -4,7 +4,7 @@ namespace Synaq\HttpClient;
 
 use Synaq\HttpClient\Exception\ClientException;
 
-class Wrapper
+class Client
 {
     /**
      * The user agent to send along with requests
